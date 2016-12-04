@@ -1,0 +1,4 @@
+*/10 * * * * /home/voxelot/scripts/rest_restart.sh
+*/1 * * * * /home/voxelot/pool-test/scripts/pool_watch.sh
+*/1 * * * * /home/voxelot/pool-test/scripts/zcash_watch.sh
+
